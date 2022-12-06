@@ -1,0 +1,32 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/agdav/OneDrive/Desktop/Unreal Projects/LearningProject1/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/agdav/OneDrive/Desktop/Unreal Projects/LearningProject1/Content/StarterContent/Props/Materials/M_Chair.uasset",
+				"C:/Users/agdav/OneDrive/Desktop/Unreal Projects/LearningProject1/Content/StarterContent/Props/Materials/M_TableRound.uasset",
+				"C:/Users/agdav/OneDrive/Desktop/Unreal Projects/LearningProject1/Content/StarterContent/Audio/Collapse01.uasset",
+				"C:/Users/agdav/OneDrive/Desktop/Unreal Projects/LearningProject1/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"C:/Users/agdav/OneDrive/Desktop/Unreal Projects/LearningProject1/Content/Maps/GridLevel.umap",
+				"C:/Users/agdav/OneDrive/Documents/Unreal Projects/LearningProject1/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/agdav/OneDrive/Documents/Unreal Projects/LearningProject1/Content/StarterContent/Maps/Minimal_Default.umap",
+				"C:/Users/agdav/OneDrive/Documents/Unreal Projects/LearningProject1/Content/StarterContent/Props/Materials/M_Chair.uasset",
+				"C:/Users/agdav/OneDrive/Documents/Unreal Projects/LearningProject1/Content/StarterContent/Props/Materials/M_TableRound.uasset",
+				"C:/Users/agdav/OneDrive/Documents/Unreal Projects/LearningProject1/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/agdav/OneDrive/Documents/Unreal Projects/LearningProject1/Content/StarterContent/Maps/Testing101.umap",
+				"C:/Users/agdav/OneDrive/Documents/Unreal Projects/LearningProject1/Content/Maps/OpenWorldExample_HLODLayer_Instanced.uasset",
+				"C:/Users/agdav/OneDrive/Documents/Unreal Projects/LearningProject1/Content/Maps/OpenWorldExample_HLODLayer_Merged.uasset",
+				"C:/Users/agdav/OneDrive/Documents/Unreal Projects/LearningProject1/Content/__ExternalActors__/Maps/OpenWorldExample/5/U6/A11P1V90AP7S1H8S32FAG1.uasset",
+				"C:/Users/agdav/OneDrive/Documents/Unreal Projects/LearningProject1/Content/__ExternalActors__/Maps/OpenWorldExample/C/LF/OLI5AXQKRDY6WFWHSZ1310.uasset",
+				"C:/Users/agdav/OneDrive/Documents/Unreal Projects/LearningProject1/Content/Maps/OpenWorldExample.umap",
+				"C:/Users/agdav/OneDrive/Documents/Unreal Projects/LearningProject1/Content/__ExternalActors__/Maps/OpenWorldExample/4/5P/40C7WX76E1FRZVKZEXO8N1.uasset",
+				"C:/Users/agdav/OneDrive/Documents/Unreal Projects/LearningProject1/Content/__ExternalActors__/Maps/OpenWorldExample/7/UD/XBJ2B2ODQO4P80Y8O1WEID.uasset",
+				"C:/Users/agdav/OneDrive/Documents/Unreal Projects/LearningProject1/Content/__ExternalActors__/Maps/OpenWorldExample/9/S9/LB62ZC5Z5HKHKQU2HWZEW0.uasset",
+				"C:/Users/agdav/OneDrive/Documents/Unreal Projects/LearningProject1/Content/StarterContent/Maps/testing.umap"
+			]
+		}
+	]
+}
